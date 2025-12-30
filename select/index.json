@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ルネッサンス情熱",
+  "base_artist": "国安わたる",
+  "createdAt": "2025-12-30T15:47:10.066837Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ルネッサンス情熱",
+      "artist": "国安わたる",
+      "has_synced": false,
+      "path": "select/pl_01_ルネッサンス情熱_国安わたる.txt"
+    }
+  ]
+}
